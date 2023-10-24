@@ -1,6 +1,9 @@
 1. Installation
+- Set up environment
 pip install -r requirements.txt
+- Install centermaskv2
 git clone https://github.com/youngwanLEE/centermask2.git
+OR download centermask2.zip in google drive (recommend)
 2. Run code
 - Video synopsis using boxing box
 python synopsis_box.py --anno annotation_Tung_mydinh3.txt --video_path mydinh3.mp4
