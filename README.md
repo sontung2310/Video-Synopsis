@@ -18,6 +18,7 @@ git clone https://github.com/youngwanLEE/centermask2.git
 ```
 
 **Method 2: Download from Google Drive (Recommended)**
+
 Download `centermask2.zip` from [Google Drive](https://drive.google.com/file/d/1mtqJdoLYfPrdr744ZTE9cMIU6fI3Dytp/view?usp=sharing)
 
 ## 💻 Usage
